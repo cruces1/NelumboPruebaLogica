@@ -1,0 +1,20 @@
+.contenedor{
+
+    flex: auto;
+    padding: auto;
+
+}
+.input{
+    
+    height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #9fe199;
+   
+}
+.title{
+    margin-top: 10px;
+}
+.name{
+    color: rgb(0, 38, 255);
+}
